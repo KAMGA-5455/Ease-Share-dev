@@ -1,0 +1,10 @@
+# Fichiers de configuration spécifiques aux OS
+.DS_Store
+Thumbs.db
+
+# Fichiers temporaires/de sauvegarde
+*.tmp
+*.bak
+*~
+*.log
+.vscode/ # Ignorer les fichiers de configuration de VS Code si tu l'utilises
